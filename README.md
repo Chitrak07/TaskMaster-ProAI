@@ -26,10 +26,10 @@ Use Cases:
 Students: Preparing for exams? Let TaskMaster Pro help you create a personalized study plan, break it into daily tasks, and monitor your progress effortlessly.
 Professionals: Manage your work projects by organizing tasks and subtasks, scheduling meetings, or setting reminders for deadlines.
 Goal Setters: From personal fitness goals to learning new skills, you can track your progress on a daily, weekly, and monthly basis.
-Tech Stack:
+
+# Tech Stack:
 Backend: Java 17 + Spring Boot
 Frontend: React.js for web and React Native for mobile
 Database: PostgreSQL/MySQL
 AI Integration: OpenAI API for personalized study plan generation
 Cloud Deployment: AWS/Heroku for backend, Vercel/Netlify for frontend
-This app is designed to empower you with productivity tools that keep you focused and on track, no matter how complex or long-term your goals are. With TaskMaster Pro, productivity meets intelligence, helping you stay organized and motivated every day!
