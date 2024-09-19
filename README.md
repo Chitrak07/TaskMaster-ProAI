@@ -30,6 +30,9 @@ Goal Setters: From personal fitness goals to learning new skills, you can track 
 # Tech Stack:
 Backend: Java 17 + Spring Boot
 Frontend: React.js for web and React Native for mobile
-Database: PostgreSQL/MySQL
+Database: PostgreSQL / MySQL
 AI Integration: OpenAI API for personalized study plan generation
 Cloud Deployment: AWS/Heroku for backend, Vercel/Netlify for frontend
+
+
+# This app is designed to empower you with productivity tools that keep you focused and on track, no matter how complex or long-term your goals are. With TaskMaster Pro, productivity meets intelligence, helping you stay organized and motivated every day!
